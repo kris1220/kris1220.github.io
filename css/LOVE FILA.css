@@ -1,0 +1,157 @@
+#main{
+
+    background-image: url("../images/LOVE FILA/bg-pattern.gif");
+    background-size: 100%;
+    margin: 0 auto;
+}
+#header{
+    width: 1900px;
+    height: 55px;
+    position: fixed;
+    z-index: 1;
+    opacity: 0.5;
+    background-color: rgb(244,244,245);
+
+#banner{
+
+    width: 100%;
+    height: 686px;
+    background-image: url("../images/LOVE FILA/Block1a.jpg");
+    background-size: 100%;
+}
+#toptext{
+    boder:solid black 1px;
+    height: 440px;
+    width:95%;
+    background-color: #ffffff;
+    margin-left: 9.2%;
+    margin-top: -80px;
+}
+#toptextleft{
+    width: 65%;
+    height:440px;
+    float: left; border: red 1px solid;
+
+}
+#toptextright{
+    border: red 1px solid;
+    text-align: right;
+    width: 30%;
+    height:440px;
+    float:left;
+    padding-right: 3%;
+
+
+}
+#top{
+
+    height: 570px;
+    width:84%;
+    background-image: url("../images/LOVE FILA/Block1-1.jpg");
+    background-size: 100%;
+    margin-left: 8%;
+ }
+#middlinner{
+    height: ;
+}
+#middletext{
+     border: red solid 3px;
+     height: 335px;
+     width:84%;
+    margin-left: 8%;
+ }
+ #middletextleft{
+     width: 45%;
+     height: 335px;
+     float:left;
+ }
+ #middletextright{
+    width: 40%;
+     height: 335px;
+     float:right;
+ }
+#middle{
+
+    height: 655px;
+    width:96%;
+    margin-left: 2%;
+    background-image: url("../images/LOVE FILA/block2_01.jpg");
+    background-size: 100%;
+}
+#mid-late{
+
+    width:67% ;
+    height:530px;
+    background-image: url("../images/LOVE FILA/block2_04.jpg");
+    background-size: 100%;
+    margin-left: 22%;
+
+}
+#mid-latetext{
+    width: 20%;
+    boder:red solid 1px;
+    height:150px
+}
+#bottom{
+
+    height: 440px;
+    width: 95%;
+}
+#bottom1{
+    height: 440px;
+    width: 17%;
+    float: left;
+    color: #ffffff;
+    background-color: #000000;
+   text-align: center;
+}
+#bottom2{
+
+    height: 440px;
+    width: 27.6%;
+    background-image: url("../images/LOVE FILA/THUMB_umbro_ret_2.jpg");
+    background-size: 100%;
+    float: left;
+
+}
+#bottom3{
+
+    height: 440px;
+    width: 27.6%;
+    background-image: url("../images/LOVE FILA/work-thumb_rco_ret.jpg");
+    background-size: 100%;
+    float: left;
+
+}
+#bottom4{
+
+    height: 440px;
+    width: 27.8%;
+    background-image: url("../images/LOVE FILA/Artboard-2.jpg");
+    background-size: 100%;
+    float: left;
+
+}
+#footer{
+   margin-top: 0px;
+    height: 320px;
+    width: 77%;
+    color: #ffffff;
+    background-color: rgb(24,23,25);
+}
+#footerleft{
+    height: 320px;
+    width: 25%;
+    float:left;
+}
+#footermiddle{
+    height: 320px;
+    width: 25%;
+    float:left;
+}
+#footerright{
+    height: 320px;
+    width: 25%;
+    float:left;
+}
+
